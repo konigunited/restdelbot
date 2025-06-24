@@ -1,0 +1,1647 @@
+{
+  "metadata": {
+    "total_items": 127,
+    "categories_count": 15,
+    "generated_by": "EnhancedMenuLoader v2.0",
+    "restaurant": "РестДеливери"
+  },
+  "categories": {
+    "Банкетные блюда": {
+      "name": "Банкетные блюда",
+      "count": 16,
+      "avg_price": 1903.12,
+      "min_price": 550.0,
+      "max_price": 4290.0
+    },
+    "Канапе": {
+      "name": "Канапе",
+      "count": 10,
+      "avg_price": 201.5,
+      "min_price": 90.0,
+      "max_price": 365.0
+    },
+    "Брускетты": {
+      "name": "Брускетты",
+      "count": 8,
+      "avg_price": 159.38,
+      "min_price": 105.0,
+      "max_price": 215.0
+    },
+    "Сэндвичи": {
+      "name": "Сэндвичи",
+      "count": 10,
+      "avg_price": 192.0,
+      "min_price": 95.0,
+      "max_price": 350.0
+    },
+    "Бургеры": {
+      "name": "Бургеры",
+      "count": 4,
+      "avg_price": 171.25,
+      "min_price": 145.0,
+      "max_price": 190.0
+    },
+    "Выпечка": {
+      "name": "Выпечка",
+      "count": 4,
+      "avg_price": 313.75,
+      "min_price": 255.0,
+      "max_price": 350.0
+    },
+    "Десерты": {
+      "name": "Десерты",
+      "count": 6,
+      "avg_price": 162.5,
+      "min_price": 110.0,
+      "max_price": 275.0
+    },
+    "Сеты канапе": {
+      "name": "Сеты канапе",
+      "count": 9,
+      "avg_price": 3178.89,
+      "min_price": 2490.0,
+      "max_price": 4590.0
+    },
+    "Закуски горячие": {
+      "name": "Закуски горячие",
+      "count": 4,
+      "avg_price": 2930.0,
+      "min_price": 1890.0,
+      "max_price": 3950.0
+    },
+    "Ассорти": {
+      "name": "Ассорти",
+      "count": 5,
+      "avg_price": 2902.0,
+      "min_price": 2290.0,
+      "max_price": 3990.0
+    },
+    "Фитнес меню": {
+      "name": "Фитнес меню",
+      "count": 4,
+      "avg_price": 2855.0,
+      "min_price": 2190.0,
+      "max_price": 3650.0
+    },
+    "Сеты салатов": {
+      "name": "Сеты салатов",
+      "count": 7,
+      "avg_price": 3704.29,
+      "min_price": 2890.0,
+      "max_price": 4890.0
+    },
+    "Фруктово-ягодные сеты": {
+      "name": "Фруктово-ягодные сеты",
+      "count": 8,
+      "avg_price": 4935.0,
+      "min_price": 2990.0,
+      "max_price": 7490.0
+    },
+    "Готовые наборы": {
+      "name": "Готовые наборы",
+      "count": 21,
+      "avg_price": 31870.95,
+      "min_price": 12990.0,
+      "max_price": 111990.0
+    },
+    "Авторские сеты": {
+      "name": "Авторские сеты",
+      "count": 11,
+      "avg_price": 23126.36,
+      "min_price": 15990.0,
+      "max_price": 29890.0
+    }
+  },
+  "items": [
+    {
+      "article": "B001",
+      "name": "Говяжий бок на подушке из картофельно-тыквенного пюре",
+      "description": "Нежная говядина на воздушном пюре из картофеля и тыквы",
+      "weight": 250,
+      "price": 1150.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B002",
+      "name": "Запеченная скумбрия с баклажанами и кунжутным соусом",
+      "description": "Ароматная рыба с овощами под изысканным азиатским соусом",
+      "weight": 270,
+      "price": 1100.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B003",
+      "name": "Медальоны из говядины с сезонными грибами",
+      "description": "Сочные медальоны премиальной говядины с лесными грибами",
+      "weight": 250,
+      "price": 1350.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B004",
+      "name": "Радужная форель с пюре васаби, биск, тартар из огурцов",
+      "description": "Деликатесная форель с японскими акцентами и свежим тартаром",
+      "weight": 260,
+      "price": 1600.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B005",
+      "name": "Телячьи щечки с картофельно-сельдереевым кремом и грибным соусом",
+      "description": "Томленые щечки молодой телятины в ароматном грибном соусе",
+      "weight": 250,
+      "price": 1200.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B006",
+      "name": "Треска угольная с овощной икрой",
+      "description": "Благородная черная треска с изысканной овощной икрой",
+      "weight": 250,
+      "price": 1450.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B007",
+      "name": "Турнедо из лосося со сливочным соусом с овощным мильфеем",
+      "description": "Филе лосося с нежным сливочным соусом и овощным слоеным пирогом",
+      "weight": 250,
+      "price": 1950.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B008",
+      "name": "Утиная ножка с трюфельным пюре со сливовым демигласом",
+      "description": "Конфи из утиной ножки с роскошным трюфельным пюре",
+      "weight": 350,
+      "price": 1650.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B009",
+      "name": "Филе палтуса на подушке из овощной лапши с зеленым соусом",
+      "description": "Нежнейший палтус с овощной лапшой под свежим зеленым соусом",
+      "weight": 250,
+      "price": 1950.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B010",
+      "name": "Хрустящая цветная капуста с кремом из сельдерея и черным птитимом",
+      "description": "Оригинальное вегетарианское блюдо с восточными нотками",
+      "weight": 250,
+      "price": 550.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "B011",
+      "name": "Цыпленок в апельсиново-имбирном маринаде и печеным картофелем",
+      "description": "Ароматная птица в цитрусовом маринаде с запеченными овощами",
+      "weight": 250,
+      "price": 650.0,
+      "category": "Банкетные блюда",
+      "type": "banquet"
+    },
+    {
+      "article": "IK001",
+      "name": "Антипасти с черри, дайконом и оливкой на бородинском тосте",
+      "description": "Легкая вегетарианская закуска с овощами на ржаном хлебе",
+      "weight": 21,
+      "price": 90.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "вегетарианское"
+      ]
+    },
+    {
+      "article": "IK002",
+      "name": "Дуэт из тунца и мурманского лосося",
+      "description": "Премиальная рыбная закуска с двумя видами благородной рыбы",
+      "weight": 25,
+      "price": 350.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": []
+    },
+    {
+      "article": "IK003",
+      "name": "Королевский финик с рикоттой и фисташкой",
+      "description": "Сладкая закуска с итальянским сыром и хрустящими орехами",
+      "weight": 18,
+      "price": 125.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "сыр",
+        "итальянская кухня"
+      ]
+    },
+    {
+      "article": "IK004",
+      "name": "Профитроль с муссом из норвежского лосося",
+      "description": "Нежное заварное пирожное с деликатесным рыбным муссом",
+      "weight": 23,
+      "price": 140.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": []
+    },
+    {
+      "article": "IK005",
+      "name": "Рулетик из пармской ветчины с мягким сыром",
+      "description": "Итальянская ветчина с нежным сыром и вялеными томатами",
+      "weight": 21,
+      "price": 180.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "сыр",
+        "томат",
+        "итальянская кухня"
+      ]
+    },
+    {
+      "article": "IK006",
+      "name": "Томаты черри с мини-моцареллой и песто",
+      "description": "Классическое капрезе в мини-формате с ароматным тимьяном",
+      "weight": 30,
+      "price": 145.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "томат"
+      ]
+    },
+    {
+      "article": "IK007",
+      "name": "Тунец татаки с карамелизованным лаймом",
+      "description": "Слегка обжаренный тунец с муссом манго и цитрусовыми нотками",
+      "weight": 17,
+      "price": 365.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "тунец"
+      ]
+    },
+    {
+      "article": "IK008",
+      "name": "Томленная говяжья вырезка с баклажаном конфи",
+      "description": "Премиальная говядина медленного приготовления с баклажанами",
+      "weight": 18,
+      "price": 290.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "говядина"
+      ]
+    },
+    {
+      "article": "IK009",
+      "name": "Камамбер с ягодной пастилой и голубикой",
+      "description": "Французский мягкий сыр со сладкой пастилой и свежими ягодами",
+      "weight": 25,
+      "price": 160.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "сыр"
+      ]
+    },
+    {
+      "article": "IK010",
+      "name": "Креветка с гуакамоле и миндальными лепестками",
+      "description": "Тигровая креветка с кремом авокадо и хрустящим миндалем",
+      "weight": 36,
+      "price": 170.0,
+      "category": "Канапе",
+      "type": "single",
+      "recommended_per_person": 4,
+      "tags": [
+        "креветка",
+        "авокадо"
+      ]
+    },
+    {
+      "article": "IBR001",
+      "name": "Брускетта с лососем",
+      "description": "Слабосоленый лосось на поджаренном деревенском хлебе с зеленью",
+      "weight": 34,
+      "price": 215.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "лосось"
+      ]
+    },
+    {
+      "article": "IBR002",
+      "name": "Брускетта с пармской ветчиной, рукколой и вялеными томатами",
+      "description": "Итальянская классика с острой рукколой и солнечными томатами",
+      "weight": 28,
+      "price": 165.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "томат",
+        "итальянская кухня"
+      ]
+    },
+    {
+      "article": "IBR003",
+      "name": "Брускетта с ростбифом и перепелиным яйцом",
+      "description": "Сочный ростбиф средней прожарки с нежным перепелиным яйцом",
+      "weight": 31,
+      "price": 165.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "IBR004",
+      "name": "Брускетта с гуакамоле, томатами конфи и миндалем",
+      "description": "Кремовое авокадо с медленно запеченными томатами и миндалем",
+      "weight": 35,
+      "price": 150.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "авокадо",
+        "томат"
+      ]
+    },
+    {
+      "article": "IBR005",
+      "name": "Брускетта с креветкой, рикоттой и персиком",
+      "description": "Тигровая креветка с итальянским сыром и сладким персиком",
+      "weight": 36,
+      "price": 170.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "креветка",
+        "сыр",
+        "итальянская кухня"
+      ]
+    },
+    {
+      "article": "IBR006",
+      "name": "Брускетта с тунцом, гуакамоле, дайконом и кунжутом",
+      "description": "Обжаренный тунец с авокадо в азиатском стиле с кунжутом",
+      "weight": 33,
+      "price": 180.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "тунец",
+        "авокадо"
+      ]
+    },
+    {
+      "article": "IBR007",
+      "name": "Брускетта с римским артишоком",
+      "description": "Маринованные артишоки с ароматными итальянскими травами",
+      "weight": 31,
+      "price": 125.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "итальянская кухня"
+      ]
+    },
+    {
+      "article": "IBR008",
+      "name": "Брускетта с козьим сыром и томатами конфи",
+      "description": "Нежный козий сыр с медленно запеченными сладкими томатами",
+      "weight": 30,
+      "price": 105.0,
+      "category": "Брускетты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "сыр",
+        "томат"
+      ]
+    },
+    {
+      "article": "IS001",
+      "name": "Сэндвич со слабосоленым лососем и хрустящим салатом",
+      "description": "Нежный лосось с микс-салатом в фирменном ремесленном хлебе",
+      "weight": 42,
+      "price": 165.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "лосось",
+        "салат"
+      ]
+    },
+    {
+      "article": "IS002",
+      "name": "Сэндвич с домашней бужениной и зерновой горчицей",
+      "description": "Буженина домашнего приготовления со старорусской горчицей",
+      "weight": 42,
+      "price": 135.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": []
+    },
+    {
+      "article": "IS003",
+      "name": "Сэндвич с томленой индейкой сувид и свежими огурчиками",
+      "description": "Нежная индейка медленного приготовления с хрустящими огурцами",
+      "weight": 42,
+      "price": 135.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "индейка"
+      ]
+    },
+    {
+      "article": "IS004",
+      "name": "Сэндвич с тунцом",
+      "description": "Консервированный тунец премиум класса с майонезом и овощами",
+      "weight": 42,
+      "price": 135.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "тунец"
+      ]
+    },
+    {
+      "article": "IS005",
+      "name": "Сэндвич с сочным куриным филе и соусом цезарь",
+      "description": "Куриная грудка на гриле с фирменным соусом цезарь",
+      "weight": 42,
+      "price": 95.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": []
+    },
+    {
+      "article": "IS006",
+      "name": "Сэндвич с хумусом, сельдереем и томатом в масле",
+      "description": "Вегетарианский сэндвич с нутовой пастой и маринованными овощами",
+      "weight": 105,
+      "price": 350.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "томат",
+        "вегетарианское"
+      ]
+    },
+    {
+      "article": "IB001",
+      "name": "Бургер BBQ с томленой индейкой и хрустящим корнишоном",
+      "description": "Сочная индейка с соусом барбекю и маринованными корнишонами",
+      "weight": 75,
+      "price": 165.0,
+      "category": "Бургеры",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "индейка"
+      ]
+    },
+    {
+      "article": "IB002",
+      "name": "Бургер с нежной куриной котлеткой и соусом гриль",
+      "description": "Домашняя куриная котлета с томатом и фирменным соусом гриль",
+      "weight": 75,
+      "price": 145.0,
+      "category": "Бургеры",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "томат"
+      ]
+    },
+    {
+      "article": "IB003",
+      "name": "Фишбургер с рыбной котлетой и сыром чеддер",
+      "description": "Котлета из белой рыбы с расплавленным чеддером и соусом спайси",
+      "weight": 70,
+      "price": 190.0,
+      "category": "Бургеры",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "сыр"
+      ]
+    },
+    {
+      "article": "IB004",
+      "name": "Чизбургер с бифштексом из мраморной говядины",
+      "description": "Премиальная говядина с сыром чеддер в классической подаче",
+      "weight": 75,
+      "price": 185.0,
+      "category": "Бургеры",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "говядина",
+        "сыр"
+      ]
+    },
+    {
+      "article": "ISA001",
+      "name": "Греческий салат",
+      "description": "Свежие овощи с сыром фета, оливками и оригинальной заправкой",
+      "weight": 72,
+      "price": 150.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "сыр",
+        "салат"
+      ]
+    },
+    {
+      "article": "ISA002",
+      "name": "Салат Нисуаз",
+      "description": "Классический французский салат с тунцом, анчоусами и каперсами",
+      "weight": 65,
+      "price": 150.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "салат"
+      ]
+    },
+    {
+      "article": "ISA003",
+      "name": "Салат Капрезе",
+      "description": "Томаты с моцареллой ди буффало, базиликом и бальзамиком",
+      "weight": 68,
+      "price": 295.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "томат",
+        "салат"
+      ]
+    },
+    {
+      "article": "ISA004",
+      "name": "Салат с копченой утиной грудкой",
+      "description": "Изысканная утиная грудка с фенхелем и цитрусовой заправкой",
+      "weight": 56,
+      "price": 310.0,
+      "category": "Сэндвичи",
+      "type": "single",
+      "recommended_per_person": 1,
+      "tags": [
+        "салат"
+      ]
+    },
+    {
+      "article": "IV001",
+      "name": "Круассан с лососем, сливочным сыром и свежим огурцом",
+      "description": "Французский круассан с деликатесным лососем и нежным кремом",
+      "weight": 75,
+      "price": 350.0,
+      "category": "Выпечка",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "сыр"
+      ]
+    },
+    {
+      "article": "IV002",
+      "name": "Круассан с курицей и соусом цезарь",
+      "description": "Воздушный круассан с куриным филе и фирменным соусом",
+      "weight": 75,
+      "price": 255.0,
+      "category": "Выпечка",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "IV003",
+      "name": "Мини-киш с сыром дор блю и грушей чатни",
+      "description": "Французский мини-пирог с благородным сыром и грушевым чатни",
+      "weight": 56,
+      "price": 325.0,
+      "category": "Выпечка",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "сыр"
+      ]
+    },
+    {
+      "article": "IV004",
+      "name": "Мини-киш с лососем и брокколи",
+      "description": "Нежный пирог с норвежским лососем и свежей брокколи",
+      "weight": 55,
+      "price": 325.0,
+      "category": "Выпечка",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "ID001",
+      "name": "Классическое тирамису",
+      "description": "Традиционный итальянский десерт с маскарпоне и кофе",
+      "weight": 30,
+      "price": 110.0,
+      "category": "Десерты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": [
+        "итальянская кухня"
+      ]
+    },
+    {
+      "article": "ID002",
+      "name": "Капкейк шоколадный",
+      "description": "Воздушный шоколадный кекс с нежным кремом",
+      "weight": 30,
+      "price": 135.0,
+      "category": "Десерты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "ID003",
+      "name": "Чизкейк с лимонной цедрой",
+      "description": "Нежный творожный торт с ароматной лимонной цедрой",
+      "weight": 30,
+      "price": 110.0,
+      "category": "Десерты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "ID004",
+      "name": "Мини-эклеры шоколадные",
+      "description": "Заварные пирожные с шоколадным кремом и глазурью",
+      "weight": 30,
+      "price": 110.0,
+      "category": "Десерты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "ID005",
+      "name": "Баночка со свежими ягодами",
+      "description": "Отборные сезонные ягоды в стеклянной баночке",
+      "weight": 55,
+      "price": 275.0,
+      "category": "Десерты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "ID006",
+      "name": "Свежие мини-фрукты ассорти",
+      "description": "Нарезка из экзотических и сезонных фруктов в стеклянной таре",
+      "weight": 64,
+      "price": 235.0,
+      "category": "Десерты",
+      "type": "single",
+      "recommended_per_person": 2,
+      "tags": []
+    },
+    {
+      "article": "K001",
+      "name": "Сет Вегетарианский",
+      "description": "Овощи крудите с хумусом, мини-фрукты и сэндвичи с хумусом",
+      "weight": 1260,
+      "price": 4590.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 459.0
+    },
+    {
+      "article": "K002",
+      "name": "Сет вегетарианских канапе Veggie",
+      "description": "Овощные крудите, спаржа в нори, сфера из сухофруктов, тофу",
+      "weight": 678,
+      "price": 2990.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 299.0
+    },
+    {
+      "article": "K003",
+      "name": "Сет вегетарианских канапе Antipasti",
+      "description": "Антипасти с овощами, бейби-картофель с хумусом, тофу с чукой",
+      "weight": 876,
+      "price": 2490.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 249.0
+    },
+    {
+      "article": "K004",
+      "name": "Сет канапе Sweet Veggie",
+      "description": "Фрукты с виноградом, финик с хумусом, медовая свекла, овощная грядка",
+      "weight": 858,
+      "price": 2790.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 279.0
+    },
+    {
+      "article": "K005",
+      "name": "Сет Vegan Box",
+      "description": "Брюссельская капуста, овощные крудите, редис с огурцом, спаржа с дайконом",
+      "weight": 894,
+      "price": 2490.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 249.0
+    },
+    {
+      "article": "K006",
+      "name": "Сет канапе Свежий взгляд",
+      "description": "Креветка с васаби, мусс из феты, салями с овощами, капуста с курицей",
+      "weight": 798,
+      "price": 2590.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 259.0
+    },
+    {
+      "article": "K007",
+      "name": "Сет канапе Римский",
+      "description": "Томат с моцареллой, креветка с гуакамоле, спаржа в курином филе, финик с рикоттой",
+      "weight": 732,
+      "price": 3790.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 379.0
+    },
+    {
+      "article": "K008",
+      "name": "Сет канапе Алтайский",
+      "description": "Мини-фрукты, антипасти с курицей, лосось на хлебе, камамбер с ягодами",
+      "weight": 684,
+      "price": 3390.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 339.0
+    },
+    {
+      "article": "K009",
+      "name": "Сет канапе Палитра вкусов",
+      "description": "Креветка с чукой, курица с ананасом, тунец татаки, канапе из феты",
+      "weight": 774,
+      "price": 3490.0,
+      "category": "Сеты канапе",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 349.0
+    },
+    {
+      "article": "H001",
+      "name": "Соцветия брокколи и цветной капусты",
+      "description": "Свежие соцветия брокколи и молодой цветной капусты на пару",
+      "weight": 500,
+      "price": 2690.0,
+      "category": "Закуски горячие",
+      "type": "assorted"
+    },
+    {
+      "article": "H002",
+      "name": "Цукини гриль с баклажанами и перцем",
+      "description": "Овощи гриль: цукини, баклажаны, болгарский перец, шампиньоны",
+      "weight": 500,
+      "price": 3190.0,
+      "category": "Закуски горячие",
+      "type": "assorted"
+    },
+    {
+      "article": "H003",
+      "name": "Брюссельская капуста с беконом",
+      "description": "Мини брюссельская капуста с ароматным сырокопченым беконом",
+      "weight": 500,
+      "price": 3950.0,
+      "category": "Закуски горячие",
+      "type": "assorted"
+    },
+    {
+      "article": "H004",
+      "name": "Спаржа в беконе с брокколи и халапеньо",
+      "description": "Спаржа гриль в беконе с брокколи и острым перцем халапеньо",
+      "weight": 500,
+      "price": 1890.0,
+      "category": "Закуски горячие",
+      "type": "assorted"
+    },
+    {
+      "article": "C001",
+      "name": "Ассорти солений",
+      "description": "Корнишоны, томаты черри, опята, черемша, жемчужный лук с зеленью",
+      "weight": 850,
+      "price": 2650.0,
+      "category": "Ассорти",
+      "type": "assorted"
+    },
+    {
+      "article": "C002",
+      "name": "Сет итальянских закусок",
+      "description": "Артишоки, маслины, каперсы, томаты в масле, жемчужная моцарелла",
+      "weight": 360,
+      "price": 2690.0,
+      "category": "Ассорти",
+      "type": "assorted"
+    },
+    {
+      "article": "C003",
+      "name": "Свежие бакинские овощи",
+      "description": "Томаты, огурцы, редис, болгарский перец, сельдерей, зеленый базилик",
+      "weight": 1100,
+      "price": 3990.0,
+      "category": "Ассорти",
+      "type": "assorted"
+    },
+    {
+      "article": "C004",
+      "name": "Маринованные грибы по собственному рецепту",
+      "description": "Ассорти маринованных грибов с домашними соусами песто и кимчи",
+      "weight": 800,
+      "price": 2890.0,
+      "category": "Ассорти",
+      "type": "assorted"
+    },
+    {
+      "article": "C005",
+      "name": "Фруктовое ассорти",
+      "description": "Ананас, киви, зеленое яблоко, виноград, апельсин, коктейльная вишня",
+      "weight": 1000,
+      "price": 2290.0,
+      "category": "Ассорти",
+      "type": "assorted"
+    },
+    {
+      "article": "BR001",
+      "name": "Сет левантийских брускетт",
+      "description": "Бабагануш с кедровыми орехами, артишок с томатами, овощи с песто",
+      "weight": 576,
+      "price": 4290.0,
+      "category": "Банкетные блюда",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 429.0
+    },
+    {
+      "article": "BR002",
+      "name": "Сет вегетарианских брускетт №1",
+      "description": "Овощи с томатным песто, мусс из батата, хумус с томатами конкасе",
+      "weight": 618,
+      "price": 2790.0,
+      "category": "Банкетные блюда",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 279.0
+    },
+    {
+      "article": "BR003",
+      "name": "Сет вегетарианских брускетт №2",
+      "description": "Спаржа с хумусом, гуакамоле с томатами конфи, мусс из тыквы",
+      "weight": 630,
+      "price": 2900.0,
+      "category": "Банкетные блюда",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 290.0
+    },
+    {
+      "article": "BR004",
+      "name": "Сет брускетт Баланс вкуса",
+      "description": "Цыпленок с муссом из феты, креветка с рикоттой, хумус с томатами",
+      "weight": 618,
+      "price": 2890.0,
+      "category": "Банкетные блюда",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 289.0
+    },
+    {
+      "article": "BR005",
+      "name": "Сет брускетт Итальянская легкость",
+      "description": "Индейка с луковым конфитюром, томаты с брынзой, тунец с гуакамоле",
+      "weight": 594,
+      "price": 2980.0,
+      "category": "Банкетные блюда",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 298.0
+    },
+    {
+      "article": "SF001",
+      "name": "Сет вегетарианских мини-бургеров",
+      "description": "Мини-бургеры с растительными котлетами и разными соусами",
+      "weight": 1288,
+      "price": 3650.0,
+      "category": "Фитнес меню",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 365.0
+    },
+    {
+      "article": "SF002",
+      "name": "Сет фитбургеров № 1",
+      "description": "Бургеры на хлебцах с растительными котлетами и хумусом",
+      "weight": 699,
+      "price": 2190.0,
+      "category": "Фитнес меню",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 219.0
+    },
+    {
+      "article": "SF003",
+      "name": "Сет фитбургеров № 2",
+      "description": "Фитбургеры с растительными котлетами, овощами гриль и гуакамоле",
+      "weight": 750,
+      "price": 2390.0,
+      "category": "Фитнес меню",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 239.0
+    },
+    {
+      "article": "SF004",
+      "name": "Сет овощных роллов",
+      "description": "Роллы с хрустящими овощами, корейской морковью и соусом сальса",
+      "weight": 1155,
+      "price": 3190.0,
+      "category": "Фитнес меню",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 319.0
+    },
+    {
+      "article": "SA001",
+      "name": "Сет Салатов № 5",
+      "description": "Спаржа с козьим сыром, мезе с артишоками, мусс из печеного батата",
+      "weight": 740,
+      "price": 4790.0,
+      "category": "Сеты салатов",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 479.0
+    },
+    {
+      "article": "SA002",
+      "name": "Сет Салатов № 6",
+      "description": "Утиная грудка с фенхелем, салат капрезе, дор блю с тыквой в розмарине",
+      "weight": 780,
+      "price": 4890.0,
+      "category": "Сеты салатов",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 489.0
+    },
+    {
+      "article": "SA003",
+      "name": "Сет вегетарианских салатов с киноа и брокколи",
+      "description": "Киноа со шпинатом и нутом, свекла с тофу, эдамаме с редисом",
+      "weight": 908,
+      "price": 3490.0,
+      "category": "Сеты салатов",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 349.0
+    },
+    {
+      "article": "SA004",
+      "name": "Сет салатов Veggie № 1",
+      "description": "Оливье постный, киноа с нутом и инжиром, салат овощная грядка",
+      "weight": 896,
+      "price": 2890.0,
+      "category": "Сеты салатов",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 289.0
+    },
+    {
+      "article": "SA005",
+      "name": "Сет салатов Veggie № 2",
+      "description": "Винегрет с опятами, салат из овощей гриль, мусс из тыквы и батата",
+      "weight": 920,
+      "price": 2890.0,
+      "category": "Сеты салатов",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 289.0
+    },
+    {
+      "article": "SA006",
+      "name": "Сет салатов Lite № 1",
+      "description": "Киноа с креветкой и эдамаме, курица с яйцом, пряная свекла с фетой",
+      "weight": 928,
+      "price": 3690.0,
+      "category": "Сеты салатов",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 369.0
+    },
+    {
+      "article": "SA007",
+      "name": "Сет салатов Lite № 2",
+      "description": "Овощи гриль, руккола с креветкой, цезарь с куриным филе",
+      "weight": 880,
+      "price": 3290.0,
+      "category": "Сеты салатов",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 329.0
+    },
+    {
+      "article": "D001",
+      "name": "Фруктово-ягодный сет",
+      "description": "Ананас, киви, виноград в баночках со шпажками и свежие ягоды",
+      "weight": 630,
+      "price": 4690.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "D002",
+      "name": "Большой ягодный сет",
+      "description": "Клубника, голубика, малина, ежевика с ароматной мятой",
+      "weight": 660,
+      "price": 6490.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "D003",
+      "name": "Фруктовый сет",
+      "description": "Ананас, киви, белый виноград, физалис с веточками мяты",
+      "weight": 768,
+      "price": 4750.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "D004",
+      "name": "Новый ягодный сет",
+      "description": "Премиальные ягоды: клубника, голубика, малина, ежевика",
+      "weight": 720,
+      "price": 7490.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "D005",
+      "name": "Новый фруктово-ягодный сет",
+      "description": "Изысканное ассорти из 12 видов ягод и 12 видов фруктов",
+      "weight": 720,
+      "price": 5290.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "D006",
+      "name": "Новый фруктовый сет",
+      "description": "Разнообразное фруктовое ассорти из 24 отборных видов",
+      "weight": 720,
+      "price": 4290.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "D007",
+      "name": "Ореховое ассорти",
+      "description": "Кешью, фундук, жареный арахис, миндаль и натуральные цукаты",
+      "weight": 864,
+      "price": 3490.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "D008",
+      "name": "Сет вегетарианских снеков",
+      "description": "Ореховое ассорти, цельнозерновые чипсы, микс сухофруктов",
+      "weight": 616,
+      "price": 2990.0,
+      "category": "Фруктово-ягодные сеты",
+      "type": "assorted"
+    },
+    {
+      "article": "S001",
+      "name": "Кофе-Брейк на 25-30 человек",
+      "description": "Комплексный набор для кофе-брейка с сэндвичами гриль, брускеттами, пирожками и десертами",
+      "weight": 4440,
+      "price": 22290.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 27,
+      "min_persons": 25,
+      "max_persons": 30,
+      "price_per_person": 825.56
+    },
+    {
+      "article": "S002",
+      "name": "Вечер в Италии на 5-10 человек",
+      "description": "Прекрасное сочетание популярных итальянских позиций для небольшого фуршета",
+      "weight": 1620,
+      "price": 14990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 7,
+      "min_persons": 5,
+      "max_persons": 10,
+      "price_per_person": 2141.43
+    },
+    {
+      "article": "S003",
+      "name": "Уик-энд в Италии на 15-20 человек",
+      "description": "Расширенная версия итальянского набора с увеличенным количеством позиций",
+      "weight": 5028,
+      "price": 49390.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 17,
+      "min_persons": 15,
+      "max_persons": 20,
+      "price_per_person": 2905.29
+    },
+    {
+      "article": "S004",
+      "name": "Мини-пир на троих на 5-10 человек",
+      "description": "Изысканные русские деликатесы в виде авторских брускетт и канапе",
+      "weight": 1620,
+      "price": 14890.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 7,
+      "min_persons": 5,
+      "max_persons": 10,
+      "price_per_person": 2127.14
+    },
+    {
+      "article": "S005",
+      "name": "Вкусные Русские на 15-20 человек",
+      "description": "Расширенный набор русских деликатесов для большой компании",
+      "weight": 4836,
+      "price": 52890.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 17,
+      "min_persons": 15,
+      "max_persons": 20,
+      "price_per_person": 3111.18
+    },
+    {
+      "article": "S006",
+      "name": "Большой Русский сет на 20-30 человек",
+      "description": "Полноценный русский банкет с брускеттами, салатами, пирожками и десертами",
+      "weight": 17004,
+      "price": 111990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 25,
+      "min_persons": 20,
+      "max_persons": 30,
+      "price_per_person": 4479.6
+    },
+    {
+      "article": "S007",
+      "name": "Дегустация на троих на 3-5 человек",
+      "description": "Компактный набор самых популярных позиций меню для небольшой компании",
+      "weight": 2808,
+      "price": 23490.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 4,
+      "min_persons": 3,
+      "max_persons": 5,
+      "price_per_person": 5872.5
+    },
+    {
+      "article": "S008",
+      "name": "День рождения на 8-12 человек",
+      "description": "Праздничный набор с авторскими брускеттами, канапе и мини-пирожными",
+      "weight": 2330,
+      "price": 15990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 8,
+      "max_persons": 12,
+      "price_per_person": 1599.0
+    },
+    {
+      "article": "S009",
+      "name": "У нас вечеринка! на 15-20 человек",
+      "description": "Веселый набор для вечеринки с итальянскими брускеттами и закусками",
+      "weight": 6492,
+      "price": 57990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 17,
+      "min_persons": 15,
+      "max_persons": 20,
+      "price_per_person": 3411.18
+    },
+    {
+      "article": "S010",
+      "name": "Стильно и вкусно на 20-30 человек",
+      "description": "Изысканный набор для стильного мероприятия с итальянскими и русскими позициями",
+      "weight": 7368,
+      "price": 67990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 25,
+      "min_persons": 20,
+      "max_persons": 30,
+      "price_per_person": 2719.6
+    },
+    {
+      "article": "S011",
+      "name": "Пирожков захотелось на 20-30 человек",
+      "description": "Ароматное ассорти домашних пирожков с различными начинками",
+      "weight": 5120,
+      "price": 12990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 25,
+      "min_persons": 20,
+      "max_persons": 30,
+      "price_per_person": 519.6
+    },
+    {
+      "article": "S012",
+      "name": "Сладкая жизнь на 20-30 человек",
+      "description": "Коллекция лучших десертов: капкейки, тортики с ягодами и макаруны",
+      "weight": 2595,
+      "price": 15490.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 25,
+      "min_persons": 20,
+      "max_persons": 30,
+      "price_per_person": 619.6
+    },
+    {
+      "article": "S013",
+      "name": "Набор от мангальщика на 20-30 человек",
+      "description": "Горячие закуски с мангала: телятина, курица, овощи гриль с фирменными соусами",
+      "weight": 4000,
+      "price": 22490.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 25,
+      "min_persons": 20,
+      "max_persons": 30,
+      "price_per_person": 899.6
+    },
+    {
+      "article": "S014",
+      "name": "Детский сет на 10 человек",
+      "description": "Любимые детьми закуски, фирменные пирожки и сладкие десерты",
+      "weight": 3290,
+      "price": 16990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 10,
+      "min_persons": 10,
+      "max_persons": 10,
+      "price_per_person": 1699.0
+    },
+    {
+      "article": "S015",
+      "name": "Недетский сет на 10-15 человек",
+      "description": "Изысканные закуски, идеально сочетающиеся с алкогольными напитками",
+      "weight": 1968,
+      "price": 19990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 12,
+      "min_persons": 10,
+      "max_persons": 15,
+      "price_per_person": 1665.83
+    },
+    {
+      "article": "S016",
+      "name": "От шефа на 10-15 человек",
+      "description": "Фирменный набор от шеф-повара с самыми популярными и изысканными позициями",
+      "weight": 2760,
+      "price": 23490.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 12,
+      "min_persons": 10,
+      "max_persons": 15,
+      "price_per_person": 1957.5
+    },
+    {
+      "article": "S017",
+      "name": "Новогодний фейерверк на 20-24 человека",
+      "description": "Праздничный набор для новогоднего фуршета с традиционными и авторскими блюдами",
+      "weight": 8150,
+      "price": 54990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 22,
+      "min_persons": 20,
+      "max_persons": 24,
+      "price_per_person": 2499.55
+    },
+    {
+      "article": "S018",
+      "name": "Фуршет на 15-20 человек",
+      "description": "Классический фуршетный набор с брускеттами, канапе, салатами и десертами",
+      "weight": 3050,
+      "price": 18990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 17,
+      "min_persons": 15,
+      "max_persons": 20,
+      "price_per_person": 1117.06
+    },
+    {
+      "article": "S019",
+      "name": "Кофе-Брейк на 12-16 человек",
+      "description": "Компактный набор для кофе-брейка с сэндвичами, пирожками и десертами",
+      "weight": 3010,
+      "price": 13990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 14,
+      "min_persons": 12,
+      "max_persons": 16,
+      "price_per_person": 999.29
+    },
+    {
+      "article": "S020",
+      "name": "Фуршет на 10-15 человек",
+      "description": "Элегантный фуршетный набор с авторскими брускеттами и воздушными десертами",
+      "weight": 2390,
+      "price": 14990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 12,
+      "min_persons": 10,
+      "max_persons": 15,
+      "price_per_person": 1249.17
+    },
+    {
+      "article": "S021",
+      "name": "День рождения на 12-16 человек",
+      "description": "Расширенный праздничный набор с увеличенным количеством десертов",
+      "weight": 3830,
+      "price": 22990.0,
+      "category": "Готовые наборы",
+      "type": "set",
+      "portions": 14,
+      "min_persons": 12,
+      "max_persons": 16,
+      "price_per_person": 1642.14
+    },
+    {
+      "article": "AS001",
+      "name": "Сет Деловой на 21-25 персон",
+      "description": "Элегантные закуски для деловых встреч с канапе, брускеттами и фруктами",
+      "weight": 6023,
+      "price": 25990.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 23,
+      "min_persons": 21,
+      "max_persons": 25,
+      "price_per_person": 1130.0
+    },
+    {
+      "article": "AS002",
+      "name": "Сет Праздничный на 21-25 персон",
+      "description": "Изысканные закуски для банкетов с фуршетными сетами и десертами",
+      "weight": 5740,
+      "price": 28590.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 23,
+      "min_persons": 21,
+      "max_persons": 25,
+      "price_per_person": 1243.04
+    },
+    {
+      "article": "AS003",
+      "name": "Сет Праздничный на 10-15 персон",
+      "description": "Компактный праздничный набор с итальянскими канапе и брускеттами",
+      "weight": 2594,
+      "price": 17990.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 12,
+      "min_persons": 10,
+      "max_persons": 15,
+      "price_per_person": 1499.17
+    },
+    {
+      "article": "AS004",
+      "name": "Сет Пикантный на 10-15 персон",
+      "description": "Яркие закуски с насыщенными вкусами и пряными нотками",
+      "weight": 3428,
+      "price": 18990.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 12,
+      "min_persons": 10,
+      "max_persons": 15,
+      "price_per_person": 1582.5
+    },
+    {
+      "article": "AS005",
+      "name": "Сет Для пикника на 10-15 персон",
+      "description": "Легкие сытные закуски для пикников с тако и мини-эклерами",
+      "weight": 3542,
+      "price": 18190.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 12,
+      "min_persons": 10,
+      "max_persons": 15,
+      "price_per_person": 1515.83
+    },
+    {
+      "article": "AS006",
+      "name": "Сет Средиземноморский на 16-20 персон",
+      "description": "Традиции Италии, Франции и Греции с морепродуктами и свежими овощами",
+      "weight": 4960,
+      "price": 26990.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 18,
+      "min_persons": 16,
+      "max_persons": 20,
+      "price_per_person": 1499.44
+    },
+    {
+      "article": "AS007",
+      "name": "Сытный кофе-брейк на 16-20 персон",
+      "description": "Питательные закуски и свежая выпечка для деловых встреч",
+      "weight": 4625,
+      "price": 16490.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 18,
+      "min_persons": 16,
+      "max_persons": 20,
+      "price_per_person": 916.11
+    },
+    {
+      "article": "AS008",
+      "name": "VIP кофе-брейк на 16-20 персон",
+      "description": "Премиальные закуски и авторские десерты для особых мероприятий",
+      "weight": 4668,
+      "price": 26790.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 18,
+      "min_persons": 16,
+      "max_persons": 20,
+      "price_per_person": 1488.33
+    },
+    {
+      "article": "AS009",
+      "name": "Сет Изысканный на 20-25 персон",
+      "description": "Авторские закуски с эксклюзивными сочетаниями для гурманов",
+      "weight": 5832,
+      "price": 28490.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 22,
+      "min_persons": 20,
+      "max_persons": 25,
+      "price_per_person": 1295.0
+    },
+    {
+      "article": "AS010",
+      "name": "Сет Стрит-фуд на 16-20 персон",
+      "description": "Популярные уличные закуски: мини-бургеры, роллы и хот-доги",
+      "weight": 4470,
+      "price": 15990.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 18,
+      "min_persons": 16,
+      "max_persons": 20,
+      "price_per_person": 888.33
+    },
+    {
+      "article": "AS011",
+      "name": "Сытный кофе-брейк на 21-25 персон",
+      "description": "Расширенный кофе-брейк с изысканными закусками и домашними пирожками",
+      "weight": 7247,
+      "price": 29890.0,
+      "category": "Авторские сеты",
+      "type": "set",
+      "portions": 23,
+      "min_persons": 21,
+      "max_persons": 25,
+      "price_per_person": 1299.57
+    }
+  ]
+}

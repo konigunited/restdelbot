@@ -1,0 +1,19 @@
+{
+  "clients": [
+    {
+      "id": "client_001",
+      "telegram_id": 7722156884,
+      "username": "manager",
+      "first_name": "Менеджер",
+      "registration_date": "2025-06-19T19:28:22.825315",
+      "total_orders": 0,
+      "total_amount": 0
+    }
+  ],
+  "estimates": [],
+  "statistics": {
+    "total_estimates": 0,
+    "total_revenue": 0,
+    "created_date": "2025-06-19T19:28:22.825315"
+  }
+}
